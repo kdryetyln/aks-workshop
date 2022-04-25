@@ -11,7 +11,7 @@ Some of the things you'll be going through:
 * Create a private, highly available container registry
 * Azure Monitor for Containers, Horizontal Pod Autoscaler(HPA) and Cluster Autoscaler
 * Logging with Elasticsearch / Fluentbit / Kibana stack
-* Service Mesh with Linkerd
+* Service Mesh with Linkerd 
 
 ## Prerequisites 
 The following are the basic requirements to **start** the labs. Individual labs may have other requirements that will be listed within the lab.
